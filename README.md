@@ -1,4 +1,12 @@
 ### Hi there 👋
+My name is Baptiste
+I'm a guy that can code and, but internet makes me can do anything.
+
+### Links
+Web : https://baptistedftn.tk/
+
+Instagram : https://www.instagram.com/baptistedftn/
+
 
 <!--
 **baptistedftn/baptistedftn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
