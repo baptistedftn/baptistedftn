@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is Baptiste
-I'm a guy that can code and, but internet makes me can do anything.
+I'm a guy that can code, but internet makes me can do anything.
 
 ### Links
 Web : https://baptistedftn.tk/
