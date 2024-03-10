@@ -2,25 +2,4 @@
 My name is Baptiste
 I'm a guy that can code, but internet makes me can do anything.
 
-Have a look on my website clicking below
-
-<a href="https://baptiste.website"><img alt="See baptiste.website" src="https://github.com/baptistedftn/baptistedftn/raw/main/header.svg"/></a>
-<!--
-### Links
-Web : https://baptistedftn.tk/
-
-
-
-**baptistedftn/baptistedftn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can see many repo in different domains! This is the summary of my life, I'm curious, and I spend my time creating projects in order to discover as many things as possible. 
